@@ -1,0 +1,74 @@
+[02:26:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:26:09] [ServerMain/INFO]: Loaded 7 recipes
+[02:26:09] [ServerMain/INFO]: Loaded 1633 advancements
+[02:26:10] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:26:10] [Server thread/INFO]: Loading properties
+[02:26:10] [Server thread/INFO]: Default game type: SURVIVAL
+[02:26:10] [Server thread/INFO]: Generating keypair
+[02:26:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:26:10] [Server thread/INFO]: Using epoll channel type
+[02:26:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:26:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:26:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:26:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:26:10] [Server thread/INFO]: Preparing level "world"
+[02:26:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:26:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:26:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:26:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:26:16] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[02:26:16] [Worker-Main-1/INFO]: Preparing spawn area: 72%
+[02:26:16] [Server thread/INFO]: Time elapsed: 5707 ms
+[02:26:16] [Server thread/INFO]: Done (5.906s)! For help, type "help"
+[02:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5339ms or 106 ticks behind
+[02:26:23] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/32, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
+[02:26:23] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/40, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
+[02:26:33] [Server thread/INFO]: Danielcf37[/127.133.49.52:51949] logged in with entity id 101 at (-159.63499874904798, 113.74580139497138, -467.6905249858746)
+[02:26:33] [Server thread/INFO]: Danielcf37 joined the game
+[02:27:03] [Server thread/INFO]: Named entity bvq['Baby Guardian'/95, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-141.27, y=117.14, z=-474.47] died: Baby Guardian withered away
+[02:27:04] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/98, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-160.30, y=111.04, z=-468.53] died: Drowned Hunter was impaled by Danielcf37
+[02:27:17] [Server thread/INFO]: TioSkrollex[/127.54.56.198:37209] logged in with entity id 221 at (-178.31363419425043, 112.17568771870783, -466.1737527241117)
+[02:27:17] [Server thread/INFO]: TioSkrollex joined the game
+[02:27:31] [Server thread/INFO]: TioSkrollex was impaled by Drowned Hunter
+[02:27:35] [Server thread/INFO]: Named entity bvq['Baby Guardian'/255, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-179.94, y=112.56, z=-465.50] died: Baby Guardian was impaled by Danielcf37
+[02:27:38] [Server thread/INFO]: Named entity bvq['Baby Guardian'/253, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-179.03, y=114.62, z=-468.19] died: Baby Guardian was impaled by Drowned Hunter
+[02:27:42] [Server thread/INFO]: Named entity bvq['Baby Guardian'/249, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-172.94, y=110.83, z=-468.43] died: Baby Guardian was impaled by Drowned Hunter
+[02:27:50] [Server thread/INFO]: Named entity bvq['Baby Guardian'/257, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-159.10, y=114.00, z=-463.28] died: Baby Guardian was killed by [Royal Trident] trying to hurt Danielcf37
+[02:27:52] [Server thread/INFO]: Named entity bvq['Baby Guardian'/251, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-158.24, y=113.07, z=-463.29] died: Baby Guardian was impaled by Danielcf37
+[02:28:26] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/92, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-176.60, y=94.20, z=-464.92] died: Drowned Hunter was impaled by Danielcf37
+[02:28:36] [Server thread/INFO]: Named entity bvq['Baby Guardian'/499, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-176.52, y=101.35, z=-463.09] died: Baby Guardian was killed by [Royal Trident] trying to hurt Danielcf37
+[02:30:08] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/642, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-228.52, y=133.00, z=-465.84] died: Prismarine Guardian was slain by Danielcf37 using [Royal Trident]
+[02:30:12] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/519, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-223.54, y=132.54, z=-466.44] died: Aquatic Creeper was slain by Danielcf37 using [Royal Trident]
+[02:30:28] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/641, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-224.67, y=133.00, z=-467.45] died: Prismarine Guardian withered away
+[02:30:33] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/640, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-214.58, y=133.00, z=-467.87] died: Prismarine Guardian was burnt to a crisp whilst fighting Danielcf37
+[02:30:57] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/706, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-244.40, y=139.00, z=-465.60] died: Aquatic Creeper was blown up by Aquatic Creeper
+[02:31:42] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/922, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-243.28, y=133.00, z=-484.80] died: Aquatic Creeper was blown up by Aquatic Creeper
+[02:31:42] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/920, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-243.50, y=133.00, z=-486.59] died: Aquatic Creeper was blown up by Aquatic Creeper
+[02:31:50] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/918, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-246.69, y=133.00, z=-477.87] died: Aquatic Creeper withered away whilst fighting Danielcf37
+[02:31:51] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/921, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-250.15, y=133.00, z=-472.85] died: Aquatic Creeper withered away
+[02:31:51] [Server thread/INFO]: Named entity bwv['☆ Prismarine Mage ☆'/904, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-245.41, y=133.00, z=-480.97] died: ☆ Prismarine Mage ☆ was slain by Danielcf37 using [Royal Trident]
+[02:31:53] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/916, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-253.50, y=133.00, z=-463.69] died: Aquatic Creeper withered away
+[02:32:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-243, y=135, z=-511} gu{x=-243, y=134, z=-510}
+[02:32:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-243, y=135, z=-511} gu{x=-243, y=134, z=-510}
+[02:32:40] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/1096, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-240.46, y=134.00, z=-501.90] died: Aquatic Creeper withered away
+[02:32:42] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/1097, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-239.86, y=133.00, z=-499.29] died: Aquatic Creeper was slain by Danielcf37 using [Royal Trident]
+[02:32:53] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/1191, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-238.14, y=133.35, z=-504.61] died: Aquatic Creeper was slain by Danielcf37 using [Royal Trident]
+[02:33:21] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/1246, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-244.08, y=137.00, z=-501.17] died: Aquatic Creeper was impaled by Danielcf37
+[02:33:27] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/1244, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-243.28, y=133.00, z=-494.65] died: Aquatic Creeper was impaled by Danielcf37
+[02:33:31] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/1245, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-242.50, y=133.00, z=-491.17] died: Aquatic Creeper was slain by Danielcf37 using [Royal Trident]
+[02:33:51] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/1311, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-250.35, y=133.00, z=-501.34] died: Aquatic Creeper was slain by TioSkrollex using [Magmablade]
+[02:34:01] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/1315, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-245.31, y=133.00, z=-495.70] died: Prismarine Guardian was impaled by Danielcf37
+[02:34:05] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/1314, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-245.43, y=133.00, z=-495.68] died: Prismarine Guardian was impaled by Danielcf37
+[02:34:42] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/1442, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-281.87, y=134.00, z=-504.53] died: Prismarine Guardian was impaled by Danielcf37
+[02:34:45] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/1443, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-278.01, y=133.00, z=-503.59] died: Prismarine Guardian was impaled by Danielcf37
+[02:34:54] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/1456, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-301.30, y=132.00, z=-507.67] died: Drowned Hunter was impaled by Danielcf37
+[02:34:57] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/1454, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-299.07, y=132.00, z=-500.17] died: Drowned Hunter was impaled by Danielcf37
+[02:35:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-282, y=135, z=-506} gu{x=-282, y=134, z=-507}
+[02:35:45] [Server thread/INFO]: Named entity bwv['☆ Prismarine Mage ☆'/1524, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-254.69, y=132.71, z=-501.70] died: ☆ Prismarine Mage ☆ was slain by Danielcf37 using [Royal Trident]
