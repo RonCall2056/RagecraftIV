@@ -72,3 +72,66 @@
 [02:34:57] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/1454, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-299.07, y=132.00, z=-500.17] died: Drowned Hunter was impaled by Danielcf37
 [02:35:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-282, y=135, z=-506} gu{x=-282, y=134, z=-507}
 [02:35:45] [Server thread/INFO]: Named entity bwv['☆ Prismarine Mage ☆'/1524, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-254.69, y=132.71, z=-501.70] died: ☆ Prismarine Mage ☆ was slain by Danielcf37 using [Royal Trident]
+[02:36:08] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/1591, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-299.52, y=132.00, z=-514.70] died: Drowned Hunter was slain by TioSkrollex using [Magmablade]
+[02:36:34] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/1461, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-298.69, y=119.14, z=-507.60] died: Drowned Hunter withered away whilst fighting TioSkrollex
+[02:36:45] [Server thread/WARN]: TioSkrollex moved too quickly! 5.439774991540446,5.14407843178526,6.798128196586674
+[02:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11125ms or 222 ticks behind
+[02:36:54] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/1846, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-296.51, y=120.84, z=-511.32] died: Drowned Hunter was impaled by Danielcf37
+[02:37:45] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/1942, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-302.40, y=120.17, z=-502.44] died: Drowned Hunter was impaled by Danielcf37
+[02:37:46] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/1829, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-296.30, y=120.26, z=-495.61] died: Drowned Hunter was killed by [Royal Trident] trying to hurt Danielcf37
+[02:40:55] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:40:55] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:41:00] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:41:00] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:06] [Server thread/ERROR]: Display entityNot a string
+[02:45:06] [Server thread/ERROR]: Display entityNot a string
+[02:45:06] [Server thread/ERROR]: Display entityNot a string
+[02:45:13] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:11,cr_helmet:1,cr_modifier:90,cr_rarity:1,cr_tier:1,display:{Lore:['{"text":"Uncommon Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Helmet ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Rampage] ","color":"red","bold":true,"italic":false},{"text":"Gain 3 s of Strength I on melee kill.","color":"#FA8578","bold":false,"italic":false}]'],Name:'{"text":"Rune of Wrath","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:45:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:13,cr_boots:1,cr_chestplate:1,cr_enchant:162,cr_helmet:1,cr_leggings:1,cr_rarity:2,cr_tier:1,display:{Lore:['{"text":"Rare Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"16","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection I","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Fire Protection I","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Mending I","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Transcendant Rune","color":"#04BF36","bold":true,"italic":false}'}}}
+[02:45:20] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:20] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:20] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:20] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:45:47] [Server thread/ERROR]: Display entityNot a string
+[02:45:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:45:49] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:25] [Server thread/ERROR]: Display entityNot a string
+[02:46:25] [Server thread/ERROR]: Display entityNot a string
+[02:46:25] [Server thread/ERROR]: Display entityNot a string
+[02:47:11] [Server thread/ERROR]: Display entityNot a string
+[02:47:11] [Server thread/ERROR]: Display entityNot a string
+[02:47:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:111,cr_axe:1,cr_rarity:1,cr_sword:1,cr_tier:1,cr_upgrade:21,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+2 Armor","color":"blue","bold":false,"italic":false}','{"text":"-10% Speed","color":"red","bold":false,"italic":false}'],Name:'{"text":"Rune of Cowardice","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:47:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:17] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:17] [Server thread/ERROR]: Display entityNot a string
+[02:47:17] [Server thread/ERROR]: Display entityNot a string
+[02:47:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:18] [Server thread/ERROR]: Display entityNot a string
+[02:47:18] [Server thread/ERROR]: Display entityNot a string
+[02:47:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:23] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:23] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:23] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:38] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:38] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:38] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:47:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:47:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
