@@ -167,5 +167,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 05:23:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
