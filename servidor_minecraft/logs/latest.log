@@ -135,3 +135,37 @@
 [02:47:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [02:47:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [02:47:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:51:20] [Server thread/INFO]: Danielcf37 lost connection: Disconnected
+[02:51:20] [Server thread/INFO]: Danielcf37 left the game
+[02:52:48] [Server thread/INFO]: Danielcf37[/127.133.49.52:54223] logged in with entity id 4855 at (8.290185594903626, 171.0, 265.10120554911)
+[02:52:48] [Server thread/INFO]: Danielcf37 joined the game
+[02:55:56] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:55:56] [Server thread/ERROR]: Display entityNot a string
+[02:55:56] [Server thread/ERROR]: Display entityNot a string
+[02:56:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:13,cr_axe:1,cr_enchant:27,cr_rarity:2,cr_tier:1,display:{Lore:['{"text":"Rare Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"16","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Sharpness II","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Knockback IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking II","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Raging Rune","color":"#04BF36","bold":true,"italic":false}'}}}
+[02:56:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:56:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:56:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:56:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:56:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:56:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:56:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:56:19] [Server thread/INFO]: Named entity bvq['Baby Guardian'/5689, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=71.90, y=87.03, z=-432.19] died: Baby Guardian withered away whilst fighting TioSkrollex
+[02:56:20] [Server thread/INFO]: Named entity bvq['Baby Guardian'/5685, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=74.52, y=87.02, z=-431.76] died: Baby Guardian withered away whilst fighting TioSkrollex
+[02:56:21] [Server thread/INFO]: Named entity bvq['Baby Guardian'/5693, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=74.53, y=87.05, z=-431.33] died: Baby Guardian withered away whilst fighting TioSkrollex
+[02:56:22] [Server thread/INFO]: Named entity bvq['Baby Guardian'/5687, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=73.42, y=90.01, z=-430.66] died: Baby Guardian withered away whilst fighting TioSkrollex
+[02:56:27] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/5544, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=83.70, y=90.05, z=-432.70] died: Drowned Hunter was slain by TioSkrollex using [Magmablade]
+[02:56:27] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:56:27] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:56:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=82, y=87, z=-433} gu{x=82, y=88, z=-433}
+[02:56:30] [Server thread/ERROR]: Display entityNot a string
+[02:56:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:56:31] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:56:52] [Server thread/INFO]: Named entity bvq['Baby Guardian'/5874, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=74.17, y=115.76, z=-433.77] died: Baby Guardian withered away whilst fighting TioSkrollex
+[02:57:08] [Server thread/INFO]: Named entity bvq['Baby Guardian'/5883, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=75.64, y=103.83, z=-431.55] died: Baby Guardian was slain by TioSkrollex using [Magmablade]
+[02:57:18] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/5863, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=83.32, y=87.44, z=-432.23] died: Drowned Hunter was slain by TioSkrollex using [Magmablade]
+[02:57:42] [Server thread/INFO]: Named entity bvq['Baby Guardian'/6060, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=73.05, y=87.03, z=-434.15] died: Baby Guardian withered away
+[02:57:42] [Server thread/INFO]: Named entity bvq['Baby Guardian'/6058, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=71.82, y=87.00, z=-435.57] died: Baby Guardian withered away whilst fighting TioSkrollex
+[02:57:46] [Server thread/INFO]: Named entity bvq['Baby Guardian'/6062, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=72.39, y=87.02, z=-435.78] died: Baby Guardian withered away
+[02:57:51] [Server thread/ERROR]: Display entityNot a string
+[02:57:51] [Server thread/ERROR]: Display entityNot a string
