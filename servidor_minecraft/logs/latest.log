@@ -329,3 +329,42 @@
 [03:47:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=54, y=189, z=-608} gu{x=53, y=188, z=-608}
 [03:47:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=54, y=189, z=-608} gu{x=53, y=188, z=-608}
 [03:47:33] [Server thread/INFO]: Named entity bwk['Crystal Miner'/15981, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=83.10, y=186.00, z=-624.13] died: Crystal Miner withered away whilst fighting Danielcf37
+[03:49:45] [Server thread/ERROR]: Display entityNot a string
+[03:49:45] [Server thread/ERROR]: Display entityNot a string
+[03:49:45] [Server thread/ERROR]: Display entityNot a string
+[03:49:56] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[03:49:56] [Server thread/INFO]: TioSkrollex left the game
+[03:50:57] [Server thread/ERROR]: Display entityNot a string
+[03:50:57] [Server thread/ERROR]: Display entityNot a string
+[03:51:02] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:110,cr_axe:1,cr_rarity:1,cr_sword:1,cr_tier:1,cr_upgrade:24,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+15% Base Attack Damage","color":"blue","bold":false,"italic":false}','{"text":"-10% Attack Speed","color":"red","bold":false,"italic":false}'],Name:'{"text":"Rune of Impact","color":"#269AFF","bold":true,"italic":false}'}}}
+[03:51:02] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:02] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:02] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:02] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:07] [Server thread/INFO]: Danielcf37 has completed the challenge [Artisan]
+[03:51:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:11,cr_modifier:7,cr_rarity:2,cr_sword:1,cr_tier:2,display:{Lore:['{"text":"Rare Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"35","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"2","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Eviscerate] ","color":"red","bold":true,"italic":false},{"text":"On hit, spend 20 mana to deal 5 damage","color":"#FA8578","bold":false,"italic":false}]','{"text":"to nearby enemies and buff your next two attacks.","color":"#FA8578","bold":false,"italic":false}','{"text":"The 2nd attack also deals 5 AoE damage, and the 3rd","color":"#FA8578","bold":false,"italic":false}','{"text":"attack deals 8 damage in a larger area. If you do","color":"#FA8578","bold":false,"italic":false}','{"text":"not finish the three-attack combo fast enough, some","color":"#FA8578","bold":false,"italic":false}','{"text":"of your mana is recouped.","color":"#FA8578","bold":false,"italic":false}'],Name:'{"text":"Rune of Evisceration","color":"#04BF36","bold":true,"italic":false}'}}}
+[03:51:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:51:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:08] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:10] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:51:10] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:51:35] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:35] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:51:35] [Server thread/ERROR]: Display entityNot a string
+[03:51:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:51:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:54:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:54:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:54:43] [Server thread/ERROR]: Display entityNot a string
+[03:54:47] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:13,cr_axe:1,cr_enchant:15,cr_rarity:2,cr_sword:1,cr_tier:1,display:{Lore:['{"text":"Rare Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"16","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Fire Aspect III","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Knockback I","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking II","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Searing Rune","color":"#04BF36","bold":true,"italic":false}'}}}
+[03:54:47] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:54:47] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:54:47] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:54:47] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:54:47] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:54:47] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:54:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:54:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:54:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
