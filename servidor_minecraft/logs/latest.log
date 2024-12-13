@@ -287,3 +287,45 @@
 [03:32:40] [Server thread/INFO]: Named entity bwv['☆ Prismarine Mage ☆'/9741, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-289.90, y=95.00, z=-462.54] died: ☆ Prismarine Mage ☆ was slain by Danielcf37 using [Raging Great Axe]
 [03:32:49] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/12486, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-305.47, y=94.00, z=-463.05] died: Aquatic Creeper was slain by TioSkrollex using [Prismarine Blade]
 [03:36:18] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/13006, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
+[03:38:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:38:46] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:38:49] [Server thread/ERROR]: Display entityNot a string
+[03:38:50] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:38:50] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:38:58] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:38:58] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:39:22] [Server thread/ERROR]: Display entityNot a string
+[03:39:26] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:39:26] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:39:27] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:39:27] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:39:27] [Server thread/ERROR]: Display entityNot a string
+[03:39:27] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:39:27] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:41:45] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:41:45] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:41:45] [Server thread/ERROR]: Display entityNot a string
+[03:41:50] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:16,cr_axe:1,cr_modifier:31,cr_rarity:0,cr_tier:0,display:{Lore:['{"text":"Common Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"10","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Earth Spikes] ","color":"#D7E841","bold":true,"italic":false},{"text":"On critical strike, spend 20 mana","color":"#D5E876","bold":false,"italic":false}]','{"text":"to summon five earth spikes in front of you, dealing","color":"#D5E876","bold":false,"italic":false}','{"text":"8 damage and briefly staggering enemies.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Impaling","color":"white","bold":true,"italic":false}'}}}
+[03:41:50] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:41:50] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:41:50] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:41:50] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:41:50] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:41:50] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:41:51] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:41:51] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:41:51] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:45:26] [Server thread/INFO]: Named entity bwk['Crystal Miner'/15282, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=41.34, y=189.00, z=-610.30] died: Crystal Miner was slain by TioSkrollex using [Thousand Cuts]
+[03:45:38] [Server thread/INFO]: Named entity bwt['☆ Animated Crystal ☆'/15303, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=36.75, y=189.00, z=-615.19] died: ☆ Animated Crystal ☆ was slain by TioSkrollex using [Thousand Cuts]
+[03:45:43] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/15365, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=47.52, y=188.00, z=-612.50] died: Small Animated Crystal was slain by TioSkrollex using [Thousand Cuts]
+[03:45:43] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/15363, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=42.96, y=188.00, z=-614.01] died: Small Animated Crystal was slain by TioSkrollex using [Thousand Cuts]
+[03:45:46] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/15389, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=52.03, y=188.00, z=-612.05] died: Tiny Animated Crystal was slain by TioSkrollex using [Thousand Cuts]
+[03:45:46] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/15390, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=51.53, y=188.00, z=-612.23] died: Tiny Animated Crystal was slain by TioSkrollex using [Thousand Cuts]
+[03:45:47] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/15387, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=52.78, y=188.00, z=-611.19] died: Tiny Animated Crystal was slain by TioSkrollex using [Thousand Cuts]
+[03:45:48] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/15388, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=51.37, y=188.00, z=-611.91] died: Tiny Animated Crystal withered away whilst fighting TioSkrollex
+[03:47:24] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=73, y=188, z=-598} gu{x=74, y=189, z=-596}
+[03:47:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=55, y=188, z=-608} gu{x=55, y=188, z=-607}
+[03:47:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=55, y=188, z=-608} gu{x=55, y=188, z=-607}
+[03:47:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=54, y=189, z=-608} gu{x=53, y=188, z=-608}
+[03:47:31] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=54, y=189, z=-608} gu{x=53, y=188, z=-608}
+[03:47:33] [Server thread/INFO]: Named entity bwk['Crystal Miner'/15981, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=83.10, y=186.00, z=-624.13] died: Crystal Miner withered away whilst fighting Danielcf37
