@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-15 01:25:00 +0000"
+    },
+    "done": true
+  },
   "challenges:slayer/inquisitor": {
     "criteria": {
       "requirement": "2024-12-15 01:47:37 +0000"
@@ -182,12 +188,6 @@
   "challenges:explorer/treasure_hunter": {
     "criteria": {
       "requirement": "2024-12-15 03:08:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-15 01:25:00 +0000"
     },
     "done": true
   },
