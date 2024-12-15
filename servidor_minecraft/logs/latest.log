@@ -1,147 +1,57 @@
-[14:56:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:56:39] [ServerMain/INFO]: Loaded 7 recipes
-[14:56:39] [ServerMain/INFO]: Loaded 1633 advancements
-[14:56:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:56:40] [Server thread/INFO]: Loading properties
-[14:56:40] [Server thread/INFO]: Default game type: SURVIVAL
-[14:56:40] [Server thread/INFO]: Generating keypair
-[14:56:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:56:40] [Server thread/INFO]: Using epoll channel type
-[14:56:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:56:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:56:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:56:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:56:40] [Server thread/INFO]: Preparing level "world"
-[14:56:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:56:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:56:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:56:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:56:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:56:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:56:44] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:56:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:56:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:56:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:56:45] [Worker-Main-3/INFO]: Preparing spawn area: 4%
-[14:56:45] [Worker-Main-2/INFO]: Preparing spawn area: 53%
-[14:56:46] [Server thread/INFO]: Preparing spawn area: 100%
-[14:56:46] [Server thread/INFO]: Time elapsed: 5981 ms
-[14:56:46] [Server thread/INFO]: Done (6.127s)! For help, type "help"
-[14:56:50] [Server thread/INFO]: Danielcf37[/127.133.49.52:41951] logged in with entity id 11 at (26.24104839739916, 173.0, 265.0228831576243)
-[14:56:50] [Server thread/INFO]: Danielcf37 joined the game
-[14:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3981ms or 79 ticks behind
-[14:56:51] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/12, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
-[14:56:51] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/29, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
-[15:09:14] [Server thread/INFO]: TioSkrollex[/127.54.56.198:42045] logged in with entity id 1865 at (22.616555998092288, 170.0, 272.7094375319801)
-[15:09:14] [Server thread/INFO]: TioSkrollex joined the game
-[15:12:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[15:12:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[15:12:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[15:12:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[15:12:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[15:12:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[15:17:17] [Server thread/ERROR]: Display entityNot a string
-[15:17:17] [Server thread/ERROR]: Display entityNot a string
-[15:17:17] [Server thread/ERROR]: Display entityNot a string
-[15:17:44] [Server thread/ERROR]: Display entityNot a string
-[15:18:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:13,cr_boots:1,cr_chestplate:1,cr_enchant:162,cr_helmet:1,cr_leggings:1,cr_rarity:2,cr_tier:1,display:{Lore:['{"text":"Rare Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"16","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection I","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Fire Protection I","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Mending I","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Transcendant Rune","color":"#04BF36","bold":true,"italic":false}'}}}
-[15:18:01] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:16,cr_boots:1,cr_modifier:82,cr_rarity:2,cr_tier:2,display:{Lore:['{"text":"Rare Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"25","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"2","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Acrobatics] ","color":"#D7E841","bold":true,"italic":false},{"text":"You have Jump Boost III.","color":"#D5E876","bold":false,"italic":false}]'],Name:'{"text":"Rune of Agility","color":"#04BF36","bold":true,"italic":false}'}}}
-[15:18:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[15:18:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[15:18:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[15:18:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[15:18:01] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[15:18:29] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[15:18:29] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[15:20:18] [Server thread/INFO]: Named entity bwk['Crystal Miner'/4169, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=26.78, y=127.50, z=-716.64] died: Crystal Miner was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:21:07] [Server thread/INFO]: Named entity bwk['Crystal Miner'/4327, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=18.17, y=116.04, z=-688.30] died: Crystal Miner was killed whilst fighting Danielcf37
-[15:21:08] [Server thread/INFO]: Named entity bwk['Crystal Miner'/4325, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=18.30, y=116.00, z=-688.73] died: Crystal Miner was killed whilst fighting Danielcf37
-[15:21:08] [Server thread/INFO]: Named entity bwk['Crystal Miner'/4322, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=21.31, y=116.00, z=-687.68] died: Crystal Miner was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:21:30] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4269, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=13.58, y=116.00, z=-680.25] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:21:54] [Server thread/INFO]: Named entity bvn['Swarmer'/4379, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=2.41, y=106.34, z=-680.51] died: Swarmer was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:21:59] [Server thread/INFO]: Named entity bvn['Swarmer'/4622, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=3.69, y=118.00, z=-681.53] died: Swarmer withered away
-[15:22:04] [Server thread/INFO]: Named entity bvn['Swarmer'/4388, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=12.80, y=117.88, z=-674.55] died: Swarmer withered away whilst fighting Danielcf37
-[15:22:14] [Server thread/INFO]: Named entity bvn['Swarmer'/4396, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=2.51, y=102.00, z=-671.52] died: Swarmer froze to death
-[15:22:39] [Server thread/INFO]: Named entity bvn['Swarmer'/4389, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=2.85, y=102.00, z=-679.07] died: Swarmer fell from a high place
-[15:22:42] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4268, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=9.25, y=113.00, z=-709.99] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:22:44] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4718, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=9.73, y=113.00, z=-709.84] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:22:46] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4717, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=11.97, y=93.00, z=-714.22] died: Frigid Zombie was doomed to fall
-[15:22:55] [Server thread/INFO]: Named entity bvn['Swarmer'/4394, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=11.65, y=124.50, z=-669.35] died: Swarmer was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:22:58] [Server thread/INFO]: Named entity bvn['Swarmer'/4632, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=9.35, y=102.00, z=-670.00] died: Swarmer fell from a high place
-[15:23:01] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4779, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=9.71, y=113.00, z=-716.22] died: Frigid Zombie was shot by Danielcf37 using [Ornate Bow of Healing]
-[15:23:05] [Server thread/INFO]: Named entity bvn['Swarmer'/4668, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=9.17, y=102.00, z=-677.26] died: Swarmer fell from a high place
-[15:23:07] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4780, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=10.36, y=113.00, z=-706.35] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:24:03] [Server thread/INFO]: Named entity bwt['☆ Animated Crystal ☆'/4942, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=12.93, y=112.00, z=-728.20] died: ☆ Animated Crystal ☆ was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:24:04] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/4990, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=13.63, y=112.91, z=-728.70] died: Small Animated Crystal was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:24:06] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4952, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=10.30, y=112.00, z=-729.90] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:24:09] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/4999, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=6.26, y=112.00, z=-726.09] died: Tiny Animated Crystal was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:24:10] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/4998, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=5.76, y=112.00, z=-724.80] died: Tiny Animated Crystal withered away
-[15:24:10] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4950, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=6.86, y=112.00, z=-724.40] died: death.attack.magic.item
-[15:24:11] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/4988, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=3.70, y=112.00, z=-736.46] died: Small Animated Crystal burned to death
-[15:24:15] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/4951, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=12.54, y=112.00, z=-724.30] died: Frigid Zombie was slain by Danielcf37 using [Tyrant's Verdict]
-[15:24:19] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5033, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=16.93, y=112.00, z=-727.23] died: Tiny Animated Crystal was killed whilst fighting TioSkrollex
-[15:24:20] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5034, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=15.54, y=112.00, z=-729.76] died: Tiny Animated Crystal was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:24:30] [Server thread/INFO]: Named entity bwq['Frost Vex'/5039, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=11.93, y=118.85, z=-727.70] died: Frost Vex withered away whilst fighting TioSkrollex
-[15:24:38] [Server thread/INFO]: Named entity bwk['Crystal Miner'/5076, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=24.18, y=110.30, z=-736.17] died: Crystal Miner was killed
-[15:24:38] [Server thread/INFO]: Named entity bwk['Crystal Miner'/5078, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=24.91, y=110.30, z=-736.51] died: Crystal Miner withered away whilst fighting Danielcf37
-[15:24:39] [Server thread/INFO]: Named entity bwk['Crystal Miner'/5074, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=16.98, y=112.00, z=-732.98] died: Crystal Miner was slain by Danielcf37 using [Tyrant's Verdict]
-[15:24:45] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5048, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=18.17, y=113.00, z=-742.70] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:24:50] [Server thread/INFO]: Named entity bwq['Frost Vex'/5012, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29.02, y=116.56, z=-745.70] died: Frost Vex was killed whilst fighting TioSkrollex
-[15:25:06] [Server thread/INFO]: Named entity bwk['Crystal Miner'/5223, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=28.02, y=125.00, z=-752.55] died: Crystal Miner was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:25:11] [Server thread/INFO]: Named entity bwq['Frost Vex'/5038, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=24.62, y=112.91, z=-737.03] died: Frost Vex was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:25:18] [Server thread/INFO]: Named entity bwt['☆ Animated Crystal ☆'/5163, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29.55, y=125.00, z=-763.59] died: ☆ Animated Crystal ☆ was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:25:24] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/5298, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=28.51, y=125.00, z=-759.27] died: death.attack.magic.item
-[15:25:24] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/5300, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=28.47, y=125.00, z=-759.56] died: death.attack.magic.item
-[15:25:26] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5339, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29.49, y=125.00, z=-753.70] died: Tiny Animated Crystal was slain by Danielcf37 using [Tyrant's Verdict]
-[15:25:28] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5340, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29.51, y=125.00, z=-750.93] died: Tiny Animated Crystal was slain by Danielcf37 using [Tyrant's Verdict]
-[15:25:29] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5341, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29.63, y=125.02, z=-750.24] died: Tiny Animated Crystal was slain by Danielcf37 using [Tyrant's Verdict]
-[15:25:30] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5342, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29.85, y=124.50, z=-749.20] died: Tiny Animated Crystal was slain by Danielcf37 using [Tyrant's Verdict]
-[15:26:11] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5462, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=59.87, y=111.00, z=-751.17] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:26:12] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5461, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=60.14, y=110.00, z=-753.12] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:26:14] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5463, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=61.19, y=111.00, z=-750.64] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:26:49] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5478, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=62.42, y=112.00, z=-743.31] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:26:54] [Server thread/INFO]: Named entity bwt['☆ Overseer ☆'/5513, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=57.24, y=112.00, z=-742.54] died: ☆ Overseer ☆ was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:26:54] [Server thread/INFO]: Named entity bvz['Corrupted Crystal'/5514, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=57.64, y=-188.00, z=-744.17] died: Corrupted Crystal was killed whilst fighting Danielcf37
-[15:26:54] [Server thread/INFO]: Named entity bvz['Corrupted Crystal'/5515, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=56.89, y=-188.00, z=-743.42] died: Corrupted Crystal was killed whilst fighting Danielcf37
-[15:26:54] [Server thread/INFO]: Named entity bvz['Corrupted Crystal'/5516, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=56.51, y=-187.18, z=-742.48] died: Corrupted Crystal was killed whilst fighting Danielcf37
-[15:27:05] [Server thread/INFO]: Named entity bwq['Frost Vex'/5465, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=61.98, y=114.13, z=-746.39] died: Frost Vex was killed whilst fighting Danielcf37
-[15:27:12] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5476, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=56.49, y=108.00, z=-752.77] died: Frigid Zombie was slain by Danielcf37 using [Tyrant's Verdict]
-[15:27:16] [Server thread/INFO]: Named entity bwq['Frost Vex'/5503, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=52.79, y=116.02, z=-752.81] died: Frost Vex was killed whilst fighting TioSkrollex
-[15:27:22] [Server thread/INFO]: Named entity bwt['☆ Animated Crystal ☆'/5484, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=61.34, y=110.00, z=-757.34] died: ☆ Animated Crystal ☆ was shot by Skeleton
-[15:27:28] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/5759, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=61.51, y=112.00, z=-747.58] died: Small Animated Crystal was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:27:29] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/5761, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=61.50, y=112.00, z=-746.33] died: Small Animated Crystal was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:27:30] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5796, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=60.94, y=112.00, z=-744.93] died: Tiny Animated Crystal was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:27:30] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5790, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=61.72, y=112.00, z=-745.83] died: Tiny Animated Crystal was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:27:30] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5791, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=61.35, y=112.00, z=-745.78] died: Tiny Animated Crystal was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:27:30] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5795, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=60.94, y=112.00, z=-744.61] died: Tiny Animated Crystal was killed
-[15:27:45] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5767, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=55.73, y=109.00, z=-780.17] died: Frigid Zombie was killed whilst fighting Danielcf37
-[15:27:49] [Server thread/INFO]: Named entity bwq['Frost Vex'/5714, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=56.20, y=111.24, z=-779.02] died: Frost Vex was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:27:55] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5768, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=58.49, y=107.00, z=-763.68] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:27:57] [Server thread/INFO]: Named entity bwq['Frost Vex'/5713, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=58.91, y=112.44, z=-755.57] died: Frost Vex was shot by TioSkrollex using [Arachnophilia]
-[15:28:31] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5862, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=47.72, y=109.00, z=-786.05] died: Frigid Zombie burned to death
-[15:28:33] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5939, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=43.39, y=113.00, z=-784.25] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:28:37] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5938, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=40.77, y=112.00, z=-785.48] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:28:37] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5937, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=42.47, y=112.00, z=-785.47] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:28:42] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/5861, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=52.02, y=107.00, z=-773.85] died: Frigid Zombie withered away
-[15:28:57] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/6002, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=47.11, y=117.00, z=-783.37] died: Frigid Zombie was burnt to a crisp whilst fighting Danielcf37
-[15:29:16] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/6001, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=48.54, y=109.31, z=-789.56] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:29:18] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/6058, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=50.41, y=109.00, z=-786.74] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:29:32] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/6057, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=58.70, y=110.42, z=-793.86] died: Frigid Zombie was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:29:34] [Server thread/INFO]: Named entity bwt['☆ Animated Crystal ☆'/6091, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=58.56, y=110.25, z=-794.32] died: ☆ Animated Crystal ☆ was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:29:41] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/6137, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=51.98, y=109.00, z=-792.98] died: Small Animated Crystal withered away whilst fighting Danielcf37
-[15:29:44] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/6135, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=46.70, y=108.00, z=-780.71] died: Small Animated Crystal was shot by Danielcf37 using [Ornate Bow of Healing]
-[15:29:45] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/6172, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=46.78, y=108.00, z=-779.69] died: Tiny Animated Crystal was shot by Danielcf37 using [Ornate Bow of Healing]
-[15:29:46] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/6171, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=46.31, y=108.00, z=-778.37] died: Tiny Animated Crystal was shot by Danielcf37 using [Ornate Bow of Healing]
-[15:29:47] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/6163, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=45.46, y=108.00, z=-779.50] died: Tiny Animated Crystal withered away
-[15:29:47] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/6162, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=46.15, y=108.00, z=-780.29] died: Tiny Animated Crystal was shot by Danielcf37 using [Ornate Bow of Healing]
-[15:30:47] [Server thread/INFO]: Named entity bwq['Frost Vex'/6049, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=70.43, y=109.31, z=-828.04] died: Frost Vex was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:31:16] [Server thread/INFO]: Named entity bwq['Frost Vex'/5954, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=74.01, y=101.41, z=-799.52] died: Frost Vex was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
-[15:31:16] [Server thread/INFO]: Named entity bvn['Swarmer'/6375, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=74.62, y=96.00, z=-798.91] died: Swarmer was shot by Danielcf37 using [Ornate Bow of Healing]
-[15:31:17] [Server thread/INFO]: Named entity bvn['Swarmer'/6376, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=73.29, y=105.00, z=-800.63] died: Swarmer was burnt to a crisp whilst fighting TioSkrollex
-[15:31:21] [Server thread/INFO]: Named entity bvn['Swarmer'/6373, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=75.35, y=95.41, z=-801.63] died: Swarmer withered away
-[15:31:21] [Server thread/INFO]: Named entity bvn['Swarmer'/6374, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=75.82, y=93.63, z=-797.31] died: Swarmer was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
-[15:31:29] [Server thread/INFO]: Named entity bvn['Swarmer'/6454, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=77.75, y=94.14, z=-796.60] died: Swarmer was shot by Danielcf37 using [Ornate Bow of Healing]
-[15:31:34] [Server thread/INFO]: Named entity bvn['Swarmer'/6456, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=77.21, y=94.37, z=-796.35] died: Swarmer was shot by Danielcf37 using [Ornate Bow of Healing]
-[15:31:55] [Server thread/INFO]: Named entity bvn['Swarmer'/6503, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=81.48, y=92.00, z=-799.55] died: Swarmer withered away
-[15:32:50] [Server thread/INFO]: Made Danielcf37 a server operator
-[15:36:46] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/6680, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=104.51, y=90.00, z=-844.70] died: Frigid Zombie was killed whilst fighting TioSkrollex
+[16:14:04] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:14:07] [ServerMain/INFO]: Loaded 7 recipes
+[16:14:07] [ServerMain/INFO]: Loaded 1633 advancements
+[16:14:07] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[16:14:07] [Server thread/INFO]: Loading properties
+[16:14:07] [Server thread/INFO]: Default game type: SURVIVAL
+[16:14:07] [Server thread/INFO]: Generating keypair
+[16:14:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:14:07] [Server thread/INFO]: Using epoll channel type
+[16:14:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:14:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:14:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:14:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:14:07] [Server thread/INFO]: Preparing level "world"
+[16:14:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:14:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:14:11] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[16:14:11] [Server thread/INFO]: Time elapsed: 3874 ms
+[16:14:11] [Server thread/INFO]: Done (4.050s)! For help, type "help"
+[16:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2992ms or 59 ticks behind
+[16:14:15] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/31, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
+[16:14:16] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/44, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
+[16:20:45] [Server thread/INFO]: TioSkrollex[/127.54.56.198:43357] logged in with entity id 56 at (101.86944843809914, 90.0, -823.1893645733512)
+[16:20:45] [Server thread/INFO]: TioSkrollex joined the game
+[16:20:52] [Server thread/INFO]: Danielcf37[/127.133.49.52:59675] logged in with entity id 130 at (108.87448407300599, 90.0, -831.7823522146981)
+[16:20:52] [Server thread/INFO]: Danielcf37 joined the game
+[16:21:38] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/183, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=104.45, y=90.00, z=-850.30] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:21:57] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/225, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=110.84, y=90.00, z=-863.21] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:22:15] [Server thread/INFO]: Named entity bwk['Crystal Miner'/232, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=116.65, y=90.40, z=-861.86] died: Crystal Miner withered away whilst fighting Danielcf37
+[16:23:52] [Server thread/INFO]: Named entity bvy['Frozen Soul'/412, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=126.47, y=91.46, z=-867.72] died: Frozen Soul was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[16:24:00] [Server thread/INFO]: Named entity bwk['Crystal Miner'/402, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=124.28, y=90.00, z=-866.59] died: Crystal Miner was slain by Danielcf37
+[16:24:03] [Server thread/INFO]: Named entity bwk['Crystal Miner'/329, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=126.38, y=90.00, z=-865.86] died: Crystal Miner was killed whilst fighting Danielcf37
+[16:24:51] [Server thread/INFO]: Named entity bwk['Crystal Miner'/585, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=106.46, y=90.00, z=-879.24] died: Crystal Miner was killed whilst fighting Danielcf37
+[16:25:14] [Server thread/INFO]: Named entity bvn['Swarmer'/589, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=105.09, y=90.31, z=-871.64] died: Swarmer was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[16:25:37] [Server thread/INFO]: Named entity bwk['Crystal Miner'/488, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=116.00, y=90.00, z=-882.25] died: Crystal Miner was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:25:46] [Server thread/INFO]: Named entity bvy['Frozen Soul'/591, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=120.69, y=91.46, z=-888.04] died: Frozen Soul was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:26:08] [Server thread/INFO]: Named entity bwk['Crystal Miner'/720, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=109.70, y=90.00, z=-871.56] died: Crystal Miner was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:26:14] [Server thread/INFO]: Named entity bwk['Crystal Miner'/722, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=116.91, y=90.00, z=-891.02] died: Crystal Miner was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[16:26:19] [Server thread/INFO]: Named entity bvy['Frozen Soul'/691, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=115.79, y=91.46, z=-889.37] died: Frozen Soul was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:26:54] [Server thread/INFO]: Named entity bvn['Swarmer'/669, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=104.37, y=90.00, z=-891.58] died: Swarmer was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:27:13] [Server thread/INFO]: Named entity bvn['Swarmer'/855, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=86.57, y=90.00, z=-892.60] died: Swarmer was burnt to a crisp whilst fighting TioSkrollex
+[16:27:21] [Server thread/INFO]: Named entity bvn['Swarmer'/668, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=97.25, y=90.88, z=-889.04] died: Swarmer was killed whilst fighting Danielcf37
+[16:27:40] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/904, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=72.20, y=91.00, z=-884.31] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:27:40] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/844, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=71.84, y=91.00, z=-883.81] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:27:47] [Server thread/INFO]: Named entity bwk['Crystal Miner'/846, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=75.11, y=90.00, z=-881.06] died: Crystal Miner was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:27:49] [Server thread/INFO]: Named entity bwk['Crystal Miner'/921, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=78.48, y=90.00, z=-880.98] died: Crystal Miner was burnt to a crisp whilst fighting TioSkrollex
+[16:27:59] [Server thread/INFO]: Named entity bwv['Frigid Zombie'/988, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=72.79, y=90.00, z=-884.72] died: Frigid Zombie was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[16:28:21] [Server thread/INFO]: Named entity bwk['Crystal Miner'/1039, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=82.18, y=91.00, z=-872.30] died: Crystal Miner was killed whilst fighting Danielcf37
+[16:31:10] [Server thread/INFO]: Named entity bwk['Crystal Miner'/67, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=100.13, y=90.31, z=-866.44] died: Crystal Miner was killed whilst fighting TioSkrollex
+[16:31:15] [Server thread/INFO]: Named entity bwk['Crystal Miner'/1340, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=101.50, y=90.00, z=-869.46] died: Crystal Miner was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[16:31:18] [Server thread/INFO]: Named entity bwk['Crystal Miner'/59, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=101.49, y=90.00, z=-867.19] died: Crystal Miner was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
