@@ -656,3 +656,12 @@
 [03:19:48] [Server thread/INFO]: Named entity bvn['Swarmer'/32823, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=22.84, y=158.00, z=-653.50] died: Swarmer withered away
 [03:20:25] [Server thread/INFO]: TioSkrollex[/127.54.56.198:50739] logged in with entity id 33136 at (31.768304159032915, 147.0, -717.6999999880791)
 [03:20:25] [Server thread/INFO]: TioSkrollex joined the game
+[03:21:34] [Server thread/INFO]: Named entity bvn['Swarmer'/32815, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=43.92, y=160.00, z=-640.84] died: Swarmer fell from a high place
+[03:21:37] [Server thread/INFO]: Named entity bvn['Swarmer'/33366, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=41.55, y=154.00, z=-636.28] died: Swarmer was blown up by Creeper
+[03:21:38] [Server thread/INFO]: Named entity bvn['Swarmer'/32831, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=45.75, y=160.00, z=-640.35] died: Swarmer was doomed to fall by TioSkrollex using [Searing Iron Sword of Evisceration]
+[03:21:58] [Server thread/INFO]: Named entity bvn['Swarmer'/33445, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=46.86, y=156.00, z=-628.23] died: Swarmer was burnt to a crisp whilst fighting Danielcf37
+[03:21:58] [Server thread/INFO]: Named entity bvn['Swarmer'/33365, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=41.45, y=157.00, z=-628.16] died: Swarmer was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[03:22:20] [Server thread/INFO]: Named entity bvn['Swarmer'/33506, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=55.06, y=159.88, z=-632.24] died: Swarmer was slain by TioSkrollex using [Searing Iron Sword of Evisceration]
+[03:23:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=26, y=159, z=-679} gu{x=26, y=157, z=-680}
+[03:24:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=45, y=196, z=-691} gu{x=45, y=194, z=-691}
+[03:24:34] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/34009, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
