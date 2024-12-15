@@ -445,3 +445,17 @@
 [02:29:17] [Server thread/ERROR]: Display entityNot a string
 [02:29:17] [Server thread/ERROR]: Display entityNot a string
 [02:29:17] [Server thread/ERROR]: Display entityNot a string
+[02:33:34] [Server thread/WARN]: Danielcf37 moved too quickly! -7.717570385478446,1.2468000194787976,-6.3377617196194365
+[02:34:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:34:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:34:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:34:26] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:34:26] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:34:26] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:35:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:35:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:35:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:35:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:35:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:35:44] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:39:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=39, y=152, z=-734} gu{x=39, y=150, z=-734}
