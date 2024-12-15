@@ -174,3 +174,57 @@
 [01:23:01] [Server thread/INFO]: Named entity bvn['Swarmer'/7618, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=108.59, y=187.00, z=-774.08] died: Swarmer was slain by TioSkrollex using [Thousand Cuts]
 [01:25:19] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
 [01:25:19] [Server thread/INFO]: TioSkrollex left the game
+[01:29:26] [Server thread/INFO]: TioSkrollex[/127.54.56.198:37623] logged in with entity id 8984 at (142.66183169356816, 192.0, -784.714879048021)
+[01:29:26] [Server thread/INFO]: TioSkrollex joined the game
+[01:30:00] [Server thread/INFO]: Named entity bwk['Scorched'/9041, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=160.30, y=174.00, z=-797.50] died: death.attack.magic.item
+[01:30:02] [Server thread/INFO]: Named entity bvo['Rage Creeper'/9039, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=155.70, y=174.42, z=-797.76] died: Rage Creeper was burnt to a crisp whilst fighting Danielcf37
+[01:30:14] [Server thread/INFO]: Named entity bvo['Rage Creeper'/9040, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=156.55, y=175.00, z=-798.03] died: death.attack.magic.item
+[01:30:37] [Server thread/INFO]: Named entity bvo['Rage Creeper'/9189, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=156.38, y=174.00, z=-799.19] died: Rage Creeper was burnt to a crisp whilst fighting Danielcf37
+[01:31:18] [Server thread/INFO]: Named entity bvo['Rage Creeper'/9168, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=175.47, y=175.00, z=-788.28] died: Rage Creeper was shot by Skeleton
+[01:31:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=141, y=175, z=-786} gu{x=141, y=173, z=-786}
+[01:31:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=141, y=175, z=-786} gu{x=141, y=173, z=-786}
+[01:31:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=140, y=174, z=-786} gu{x=141, y=173, z=-786}
+[01:31:58] [Server thread/INFO]: Named entity bvo['Rage Creeper'/9521, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=157.65, y=174.00, z=-786.34] died: Rage Creeper was impaled by Danielcf37
+[01:32:31] [Server thread/INFO]: Named entity bvo['Rage Creeper'/9719, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=143.42, y=172.00, z=-787.38] died: Rage Creeper was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:32:43] [Server thread/INFO]: Named entity bvo['Rage Creeper'/9291, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=151.50, y=174.00, z=-801.86] died: Rage Creeper was blown up by Rage Creeper
+[01:33:00] [Server thread/INFO]: Named entity bwj['Scarab'/9896, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=155.03, y=174.00, z=-791.03] died: Scarab was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:33:02] [Server thread/INFO]: Named entity bvz['☆ Ancient Mummy ☆'/9782, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=155.47, y=174.00, z=-787.30] died: ☆ Ancient Mummy ☆ was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:34:00] [Server thread/INFO]: Named entity bvo['Rage Creeper'/10042, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=190.85, y=169.13, z=-792.24] died: Rage Creeper was killed whilst fighting TioSkrollex
+[01:34:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=199, y=166, z=-801} gu{x=199, y=166, z=-802}
+[01:34:15] [Server thread/INFO]: Named entity bwj['Scarab'/10139, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=196.47, y=166.00, z=-792.15] died: Scarab was impaled by Danielcf37
+[01:34:16] [Server thread/INFO]: Named entity bwj['Scarab'/10125, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=193.51, y=166.00, z=-792.29] died: Scarab was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:34:16] [Server thread/INFO]: Named entity bwj['Scarab'/10133, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=192.73, y=166.50, z=-792.58] died: Scarab was killed whilst fighting Danielcf37
+[01:34:18] [Server thread/INFO]: Named entity bwj['Scarab'/10143, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=194.37, y=166.00, z=-792.50] died: Scarab was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:34:20] [Server thread/INFO]: Named entity bvz['☆ Ancient Mummy ☆'/10041, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=202.14, y=166.00, z=-793.92] died: ☆ Ancient Mummy ☆ was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:34:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=219, y=167, z=-805} gu{x=220, y=166, z=-805}
+[01:34:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=219, y=167, z=-805} gu{x=220, y=166, z=-805}
+[01:34:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=219, y=167, z=-805} gu{x=220, y=166, z=-805}
+[01:34:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=220, y=166, z=-804} gu{x=220, y=166, z=-805}
+[01:34:46] [Server thread/INFO]: Named entity bwj['Scarab'/10290, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=202.35, y=166.00, z=-803.44] died: Scarab was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:34:46] [Server thread/INFO]: Named entity bwj['Scarab'/10291, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=202.87, y=166.00, z=-803.01] died: Scarab was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:34:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=201, y=166, z=-803} gu{x=202, y=166, z=-806}
+[01:34:49] [Server thread/INFO]: Named entity bvz['☆ Ancient Mummy ☆'/10220, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=201.92, y=166.00, z=-801.65] died: ☆ Ancient Mummy ☆ was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:34:52] [Server thread/INFO]: Named entity bwj['Scarab'/10306, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=200.13, y=166.00, z=-795.67] died: Scarab withered away
+[01:35:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=208, y=167, z=-805} gu{x=209, y=166, z=-806}
+[01:35:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=209, y=167, z=-805} gu{x=208, y=167, z=-806}
+[01:37:00] [Server thread/INFO]: Named entity bvo['Rage Creeper'/10362, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=211.41, y=149.48, z=-784.30] died: Rage Creeper was killed whilst fighting Danielcf37
+[01:37:15] [Server thread/INFO]: Named entity bvo['Rage Creeper'/10723, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=208.14, y=147.00, z=-787.73] died: Rage Creeper was killed whilst fighting Danielcf37
+[01:37:29] [Server thread/INFO]: Named entity bvo['Rage Creeper'/10114, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=210.85, y=149.00, z=-784.30] died: Rage Creeper was shot by TioSkrollex using [The Apostle]
+[01:37:31] [Server thread/INFO]: Named entity bvo['Rage Creeper'/10361, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=212.70, y=151.00, z=-784.61] died: Rage Creeper was shot by TioSkrollex using [The Apostle]
+[01:37:36] [Server thread/INFO]: Named entity bwj['Scarab'/10830, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=211.97, y=151.00, z=-784.20] died: death.attack.magic.item
+[01:37:36] [Server thread/INFO]: Named entity bwj['Scarab'/10836, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=212.58, y=151.25, z=-785.51] died: Scarab was slain by TioSkrollex using [Thousand Cuts]
+[01:37:37] [Server thread/INFO]: Named entity bwj['Scarab'/10851, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=206.91, y=147.00, z=-784.20] died: Scarab was doomed to fall by TioSkrollex using [Thousand Cuts]
+[01:37:38] [Server thread/INFO]: Named entity bwj['Scarab'/10839, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=212.66, y=151.00, z=-784.85] died: Scarab was slain by TioSkrollex using [Thousand Cuts]
+[01:37:39] [Server thread/INFO]: Named entity bwj['Scarab'/10865, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=206.34, y=147.00, z=-784.57] died: Scarab was doomed to fall
+[01:37:49] [Server thread/INFO]: Named entity bvz['☆ Ancient Mummy ☆'/10775, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=212.61, y=151.00, z=-784.88] died: ☆ Ancient Mummy ☆ was shot by TioSkrollex using [The Apostle]
+[01:37:52] [Server thread/INFO]: Named entity bvo['Rage Creeper'/10898, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=207.61, y=151.00, z=-801.92] died: Rage Creeper was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:38:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=196, y=148, z=-798} gu{x=197, y=147, z=-799}
+[01:38:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=196, y=148, z=-798} gu{x=197, y=147, z=-799}
+[01:38:19] [Server thread/INFO]: Named entity bvo['Rage Creeper'/10994, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=207.47, y=150.00, z=-795.74] died: Rage Creeper was slain by TioSkrollex using [Thousand Cuts]
+[01:38:25] [Server thread/INFO]: Named entity bwj['Scarab'/11028, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=203.47, y=147.00, z=-796.42] died: Scarab was killed whilst fighting TioSkrollex
+[01:38:25] [Server thread/INFO]: Named entity bwj['Scarab'/11030, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=201.60, y=147.00, z=-793.80] died: Scarab withered away whilst fighting TioSkrollex
+[01:38:26] [Server thread/INFO]: Named entity bwj['Scarab'/11014, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=197.85, y=147.00, z=-792.54] died: Scarab withered away
+[01:38:31] [Server thread/INFO]: Named entity bwj['Scarab'/11031, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=212.73, y=151.00, z=-784.84] died: Scarab was shot by TioSkrollex using [The Apostle]
+[01:38:33] [Server thread/INFO]: Named entity bvz['☆ Ancient Mummy ☆'/10944, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=212.53, y=151.00, z=-784.82] died: ☆ Ancient Mummy ☆ was slain by TioSkrollex using [Thousand Cuts]
+[01:39:05] [Server thread/INFO]: Named entity bvo['Rage Creeper'/11115, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=183.74, y=147.00, z=-794.18] died: Rage Creeper was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:39:06] [Server thread/INFO]: Named entity bvo['Rage Creeper'/11116, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=180.80, y=147.00, z=-795.09] died: Rage Creeper was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
