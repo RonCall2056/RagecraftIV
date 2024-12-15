@@ -167,5 +167,17 @@
     },
     "done": true
   },
+  "skills:witherkill_melee": {
+    "criteria": {
+      "requirement": "2024-12-15 16:36:46 +0000"
+    },
+    "done": true
+  },
+  "challenges:slayer/inquisitor": {
+    "criteria": {
+      "requirement": "2024-12-15 16:35:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
