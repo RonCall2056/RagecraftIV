@@ -149,11 +149,5 @@
     },
     "done": true
   },
-  "skills:witherkill_melee": {
-    "criteria": {
-      "requirement": "2024-12-13 03:49:40 +0000"
-    },
-    "done": true
-  },
   "DataVersion": 3465
 }
