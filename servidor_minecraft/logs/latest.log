@@ -32,3 +32,11 @@
 [14:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3981ms or 79 ticks behind
 [14:56:51] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/12, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
 [14:56:51] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/29, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
+[15:09:14] [Server thread/INFO]: TioSkrollex[/127.54.56.198:42045] logged in with entity id 1865 at (22.616555998092288, 170.0, 272.7094375319801)
+[15:09:14] [Server thread/INFO]: TioSkrollex joined the game
+[15:12:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[15:12:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[15:12:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[15:12:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[15:12:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[15:12:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
