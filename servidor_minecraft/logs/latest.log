@@ -165,3 +165,12 @@
 [01:17:53] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [01:17:53] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [01:17:53] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:20:12] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5612, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=24.46, y=187.00, z=-771.12] died: Tiny Animated Crystal was killed whilst fighting TioSkrollex
+[01:20:36] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/5613, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=40.50, y=193.92, z=-755.50] died: Tiny Animated Crystal was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:20:42] [Server thread/WARN]: TioSkrollex moved wrongly!
+[01:21:06] [Server thread/INFO]: Named entity bwk['Crystal Miner'/6978, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=44.08, y=195.00, z=-769.23] died: Crystal Miner was killed
+[01:22:15] [Server thread/INFO]: Named entity bvn['Swarmer'/7394, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=97.67, y=192.00, z=-772.32] died: Swarmer was slain by Danielcf37 using [Searing Iron Sword of Evisceration]
+[01:22:44] [Server thread/INFO]: Named entity bvn['Swarmer'/7520, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=100.12, y=192.63, z=-774.16] died: Swarmer was killed whilst fighting TioSkrollex
+[01:23:01] [Server thread/INFO]: Named entity bvn['Swarmer'/7618, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=108.59, y=187.00, z=-774.08] died: Swarmer was slain by TioSkrollex using [Thousand Cuts]
+[01:25:19] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[01:25:19] [Server thread/INFO]: TioSkrollex left the game
