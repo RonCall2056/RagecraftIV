@@ -173,5 +173,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 17:08:03 +0000"
+    },
+    "done": true
+  },
+  "challenges:explorer/sapper": {
+    "criteria": {
+      "requirement": "2024-12-15 19:48:45 +0000"
+    },
+    "done": true
+  },
+  "challenges:slayer/marksman": {
+    "criteria": {
+      "requirement": "2024-12-16 02:27:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
