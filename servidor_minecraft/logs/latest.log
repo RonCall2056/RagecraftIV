@@ -572,3 +572,13 @@ java.lang.NullPointerException: Cannot invoke "java.util.Optional.isPresent()" b
 [04:45:26] [Server thread/WARN]: TioSkrollex moved too quickly! 4.153574946141248,3.9821369063531336,8.334447390175228
 [04:46:04] [Server thread/WARN]: Danielcf37 moved wrongly!
 [04:46:15] [Server thread/WARN]: TioSkrollex moved too quickly! -9.908256740569925,-2.6894975673910864,0.01787648226707006
+[04:46:30] [Server thread/WARN]: TioSkrollex moved too quickly! -9.749312091083198,2.941295271923906,1.0081363200267788
+[04:46:33] [Server thread/WARN]: TioSkrollex moved too quickly! -3.237906234065008,-9.445465293684776,-2.832431474056989
+[04:46:41] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[04:46:41] [Server thread/INFO]: TioSkrollex left the game
+[04:46:46] [Server thread/WARN]: Danielcf37 moved too quickly! 0.7322140327466968,-10.443391402729006,0.7013951385632708
+[04:46:49] [Server thread/WARN]: Danielcf37 moved too quickly! -1.8784740424293318,-9.667067244575911,3.745531359725078
+[04:46:59] [Server thread/WARN]: Danielcf37 moved too quickly! -10.281854051301593,-0.011648034399726725,-0.3101792183456382
+[04:47:01] [Server thread/WARN]: Danielcf37 moved too quickly! -4.267192497983331,-9.234463206473762,-1.244564870511681
+[04:47:03] [Server thread/INFO]: Danielcf37 lost connection: Disconnected
+[04:47:03] [Server thread/INFO]: Danielcf37 left the game
