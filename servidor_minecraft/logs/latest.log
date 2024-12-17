@@ -529,3 +529,46 @@ java.lang.NullPointerException: Cannot invoke "java.util.Optional.isPresent()" b
 [04:35:38] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22416, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=430.98, y=60.00, z=-697.80] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
 [04:35:43] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22415, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=430.41, y=60.00, z=-699.73] died: Undead Swordmaster was burnt to a crisp whilst fighting Danielcf37
 [04:35:44] [Server thread/INFO]: Named entity bwt['Undead Sensei'/22417, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=435.65, y=60.00, z=-695.35] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:36:48] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22503, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=423.75, y=67.30, z=-632.09] died: Undead Swordmaster was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[04:36:48] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22504, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=422.85, y=68.00, z=-634.73] died: Undead Swordmaster was killed whilst fighting Danielcf37
+[04:36:56] [Server thread/INFO]: Named entity bwt['Undead Sensei'/22505, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=423.72, y=67.30, z=-632.69] died: Undead Sensei was slain by Danielcf37 using [Phantom's Obsidian Spike of Evisceration]
+[04:38:18] [Server thread/INFO]: Named entity bvo['Rage Creeper'/22671, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=477.25, y=132.00, z=-775.48] died: Rage Creeper was killed
+[04:38:47] [Server thread/INFO]: TioSkrollex has completed the challenge [Hero]
+[04:38:47] [Server thread/INFO]: Named entity bwt['Undead Sensei'/22734, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=427.42, y=48.50, z=-687.02] died: Undead Sensei was doomed to fall by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:38:47] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22732, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=423.71, y=60.00, z=-691.49] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:38:49] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22733, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=425.28, y=60.00, z=-692.04] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:39:35] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22827, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=420.09, y=60.00, z=-699.79] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:39:41] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22828, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=427.27, y=60.00, z=-699.73] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:39:44] [Server thread/INFO]: Named entity bwt['Undead Sensei'/22829, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=423.80, y=60.00, z=-697.98] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:40:39] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22900, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=425.84, y=68.00, z=-629.77] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:40:40] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/22901, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=424.64, y=68.00, z=-628.27] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:40:45] [Server thread/INFO]: Named entity bwt['Undead Sensei'/22902, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=427.43, y=68.00, z=-630.48] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:41:32] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/23015, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=409.97, y=107.00, z=-678.98] died: Undead Swordmaster was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:41:32] [Server thread/INFO]: Named entity bwk['Undead Swordmaster'/23016, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=408.06, y=107.00, z=-679.76] died: Undead Swordmaster was burnt to a crisp whilst fighting TioSkrollex
+[04:41:35] [Server thread/INFO]: Named entity bwt['Undead Sensei'/23017, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=410.31, y=107.00, z=-677.41] died: Undead Sensei was slain by TioSkrollex using [Phantom's Obsidian Spike of Evisceration]
+[04:43:31] [Server thread/WARN]: Danielcf37 moved too quickly! -9.618756060229202,1.0,2.719131491635494
+[04:43:42] [Server thread/WARN]: TioSkrollex moved too quickly! 2.7865927796749475,-8.616073969606816,4.62578917196106
+[04:43:47] [Server thread/WARN]: Danielcf37 moved too quickly! 4.169185159033816,-7.370353974631371,6.548443655569258
+[04:43:52] [Server thread/WARN]: Danielcf37 moved too quickly! 1.5925309166652255,-8.192928969668444,5.80683777168872
+[04:43:54] [Server thread/WARN]: TioSkrollex moved too quickly! -2.7760385904080636,-10.179640792140972,3.206701777772764
+[04:44:08] [Server thread/WARN]: Danielcf37 moved too quickly! -10.417717151477518,-1.0463679653472866,1.0188370237398203
+[04:44:10] [Server thread/WARN]: Danielcf37 moved too quickly! -9.350977560617764,-4.00916387821465,0.17723488033936974
+[04:44:14] [Server thread/WARN]: Danielcf37 moved too quickly! -9.932211348206238,3.1774960192213086,-0.14423881823927331
+[04:44:17] [Server thread/INFO]: Danielcf37 lost connection: Disconnected
+[04:44:17] [Server thread/INFO]: Danielcf37 left the game
+[04:44:22] [Server thread/INFO]: Danielcf37[/127.133.49.52:60213] logged in with entity id 23247 at (423.40208088227007, 80.98565513042429, -746.9576628576605)
+[04:44:22] [Server thread/INFO]: Danielcf37 joined the game
+[04:44:36] [Server thread/INFO]: TioSkrollex lost connection: Timed out
+[04:44:36] [Server thread/INFO]: TioSkrollex left the game
+[04:44:36] [Server thread/WARN]: handleDisconnection() called twice
+[04:44:45] [Server thread/INFO]: TioSkrollex[/127.54.56.198:51723] logged in with entity id 23267 at (453.415560183436, 86.0, -744.9213693834186)
+[04:44:45] [Server thread/INFO]: TioSkrollex joined the game
+[04:44:55] [Server thread/WARN]: Danielcf37 moved too quickly! -4.4778809336839345,-7.799464232777311,4.744226076515929
+[04:45:03] [Server thread/WARN]: TioSkrollex moved too quickly! -9.124860810377356,4.153745102335577,0.5201138609295413
+[04:45:04] [Server thread/WARN]: Danielcf37 moved too quickly! 2.9164718728284242,-9.732859751256477,4.320911229789431
+[04:45:11] [Server thread/WARN]: TioSkrollex moved too quickly! -10.078092955671536,-0.07984507487044823,-0.2763878959635804
+[04:45:17] [Server thread/WARN]: TioSkrollex moved too quickly! -6.837567067678094,-3.0,-6.891795363358256
+[04:45:23] [Server thread/WARN]: TioSkrollex moved too quickly! 2.080473263493161,-10.304174142891753,3.437741453114313
+[04:45:26] [Server thread/WARN]: TioSkrollex moved too quickly! 4.153574946141248,3.9821369063531336,8.334447390175228
+[04:46:04] [Server thread/WARN]: Danielcf37 moved wrongly!
+[04:46:15] [Server thread/WARN]: TioSkrollex moved too quickly! -9.908256740569925,-2.6894975673910864,0.01787648226707006

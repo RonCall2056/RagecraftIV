@@ -191,5 +191,11 @@
     },
     "done": true
   },
+  "challenges:slayer/hero": {
+    "criteria": {
+      "requirement": "2024-12-17 04:38:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
